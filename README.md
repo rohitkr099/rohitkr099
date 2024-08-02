@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development || DSA || DevOPS || Web3**
 
-<!-- - 👨‍💻 All of my projects are available at my [PORTFOLIO](https://portfolio-website-rho-ruby.vercel.app/) -->
+- 👨‍💻 All of my projects are available at my [PORTFOLIO](https://rohitkr099.github.io/My-Portfolio-Website/) 
 
 - 💬 Feel free to reach out if you have any questions or want to discuss my expertise in **"Full Stack Web development".**
 
@@ -30,7 +30,7 @@
 📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/). -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rohit-kumar-497074225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohit-kumar-497074225?trk=profile-badge">Rohit Kumar</a></div>
 
