@@ -32,8 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/rohitkr099" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rohitdkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit-kumar-1a5165287" height="30" width="40" /></a>
-
+<a href="www.linkedin.com/in/rohitkr099" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rohitdkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit-kumar" height="30" width="40" /></a>
 
 </p>
 
