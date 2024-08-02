@@ -32,7 +32,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/Rohit-kumar-1a5165287" target="blank"><img align="center" src="https://raw.githubusercontent.com/Rohitdkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rohit-kumar" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rohit-kumar-497074225" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohit-kumar-497074225?trk=profile-badge">Rohit Kumar</a></div>
 
 </p>
 
